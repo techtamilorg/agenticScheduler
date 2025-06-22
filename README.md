@@ -17,3 +17,5 @@ The following tools are required for development:
 *   Google Code assist
 *   Langchain
 *   Langraph
+
+![image](https://github.com/user-attachments/assets/55c11d13-14f6-42c8-abc8-3f4a19ec578b)

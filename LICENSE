@@ -1,21 +1,74 @@
-MIT License
+LICENSE AGREEMENT
 
-Copyright (c) 2025 TechTamilOrg
+BY DOWNLOADING, INSTALLING, OR USING THE LICENSED SOFTWARE, YOU ("DEVELOPER") AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE AGREEMENT ("AGREEMENT"). IF YOU DO NOT AGREE TO THESE TERMS, DO NOT DOWNLOAD, INSTALL, OR USE THE LICENSED SOFTWARE.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This Agreement governs the non-commercial and non-production use of the proprietary software provided by TechTamil ("Company").
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. DEFINITIONS
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1.1 "Licensed Software" means the proprietary software made available by Company, in both source and object code, including any updates, documentation, or related materials.
+
+1.2 "Developer" means the individual or legal entity accessing or using the Licensed Software.
+
+1.3 "Developer Application" means any software, system, or hardware developed or used by Developer that may interact with or incorporate the Licensed Software.
+
+1.4 "Purpose" means non-commercial, non-production uses such as evaluation, testing, research, internal training, or academic study.
+
+1.5 "Effective Date" means the date on which the Developer first downloads or accesses the Licensed Software.
+
+2. LICENSE GRANT
+
+2.1 Grant of License
+Company grants Developer a personal, revocable, non-transferable, non-sublicensable, non-exclusive license to download, install, and use the Licensed Software solely for the Purpose.
+
+2.2 Restrictions
+Developer shall not:
+
+Use the Licensed Software for commercial gain or in production systems.
+
+Distribute, sublicense, sell, rent, lease, or otherwise make the Licensed Software available to third parties.
+
+Modify, reverse engineer, or create derivative works from the Licensed Software, except to the extent such restrictions are prohibited by law.
+
+2.3 Feedback
+Any feedback, ideas, or suggestions provided by Developer may be used by Company without any obligation or attribution.
+
+2.4 Commercial Use
+If Developer wishes to use the Licensed Software for commercial or production purposes, a separate commercial license must be obtained by contacting Company at:
+📧 info@techtamil.org
+🌐 https://techtamil.org/contact-us/
+
+3. OWNERSHIP AND INTELLECTUAL PROPERTY
+
+3.1 The Licensed Software and all intellectual property rights therein remain the sole property of Company. This Agreement grants no rights to patents, copyrights, trademarks, or trade secrets except as explicitly set forth herein.
+
+4. TERM AND TERMINATION
+
+4.1 This Agreement is effective as of the Effective Date and will remain in effect until terminated. Company may terminate this Agreement at any time upon written notice.
+
+4.2 Upon termination, Developer must cease use of the Licensed Software and destroy all copies in their possession or control.
+
+5. WARRANTY DISCLAIMER
+
+THE LICENSED SOFTWARE IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND. COMPANY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL COMPANY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING FROM THIS AGREEMENT OR THE USE OF THE LICENSED SOFTWARE. 
+
+7. GENERAL
+
+7.1 Governing Law
+This Agreement shall be governed by the laws of Ontario/Canada, without regard to conflict of laws principles.
+
+7.2 Entire Agreement
+This Agreement constitutes the entire understanding between the parties with respect to the Licensed Software and supersedes all prior agreements.
+
+7.3 Severability
+If any provision of this Agreement is held to be unenforceable, the remaining provisions will remain in effect.
+
+7.4 No Waiver
+No failure or delay in enforcing any right or provision will be deemed a waiver.
+
+7.5 Assignment
+Developer may not assign this Agreement without Company’s prior written consent. Company may assign this Agreement without restriction.
